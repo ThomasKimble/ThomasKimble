@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThomasKimble
+- 👀 I’m interested in Robotics and Software Engineering
+- 🌱 I’m currently learning HTML/CSS/JS and improving my C++
+- 💞️ I’m looking to collaborate on Open-source Projects
+- 📫 How to reach me thomas.kimble@epfl.ch
